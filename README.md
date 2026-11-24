@@ -10,7 +10,7 @@ CAP 6606 Final Project (Fall 2026) - From Simulation to Reality: Generalizable a
 - **Semester:** Fall 2026
 - **Project Type:** Scientific Literature Survey
 - **Topic:** 1C
-- **Author:** Andre Serafim
+- **Author:** Andre Giacomazzi Serafim
 
 ## Overview
 
